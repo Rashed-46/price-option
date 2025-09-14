@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Basic Fitness Plan",
+    "price": "$25/month",
+    "description": "Access to cardio machines, weights, and locker rooms.",
+    "features": ["Treadmills", "Free Weights", "Locker Access", "Water Station"]
+  },
+  {
+    "name": "Standard Gym Plan",
+    "price": "$40/month",
+    "description": "Includes group classes and extended gym hours.",
+    "features": [
+      "Cardio Equipment",
+      "Strength Machines",
+      "Yoga Classes",
+      "Zumba Sessions"
+    ]
+  },
+  {
+    "name": "Premium Membership",
+    "price": "$70/month",
+    "description": "Full access with personal trainer support and spa facilities.",
+    "features": ["Personal Trainer", "Steam Room", "Swimming Pool", "Sauna"]
+  },
+  {
+    "name": "Student Package",
+    "price": "$20/month",
+    "description": "Discounted plan for students with flexible timings.",
+    "features": ["24/7 Access", "Group Training", "Study Lounge", "Free Wi-Fi"]
+  },
+  {
+    "name": "Family Plan",
+    "price": "$100/month",
+    "description": "Shared membership for families with kids zone.",
+    "features": [
+      "Kids Zone",
+      "Family Yoga",
+      "Nutrition Guidance",
+      "Multiple Access Cards"
+    ]
+  }
+]
