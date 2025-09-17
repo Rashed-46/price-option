@@ -17,6 +17,12 @@
     ]
   },
   {
+    "name": "Student Package pro",
+    "price": "$210/month",
+    "description": "Discounted plan for students with flexible timings.",
+    "features": ["24/7 Access", "Group Training", "Study Lounge", "Free Wi-Fi"]
+  },
+  {
     "name": "Premium Membership",
     "price": "$70/month",
     "description": "Full access with personal trainer support and spa facilities.",
