@@ -2,7 +2,6 @@ import React from "react";
 import PricingCard from "./PricingCard";
 
 const PricingOption = ({ pricings }) => {
-  console.log(pricings);
   return (
     <div>
       <h2 className=" mt-4 text-3xl text-center mb-2 bg-orange-700">
